@@ -17,6 +17,9 @@ dna-sequence-comparator/
 ├── tests/
 │
 ├── docs/
+│   ├── project_structure.md
+│   ├── task_distribution.md
+│   └── project_proposal.md
 │
 ├── README.md
 └── LICENSE

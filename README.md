@@ -125,7 +125,7 @@ Antes de ejecutar el proyecto es necesario disponer de:
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/dna-sequence-comparator.git
+git clone https://github.com/amandareyesherrera/DNA-Sequence-Comparator.git
 ```
 
 ### Acceder al directorio del proyecto

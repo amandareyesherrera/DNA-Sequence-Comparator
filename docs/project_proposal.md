@@ -9,8 +9,6 @@ Proponemos desarrollar una herramienta capaz de comparar dos secuencias de ADN p
 
 El programa analizará una secuencia de referencia y una secuencia de muestra, calculando el porcentaje de similitud e identificando las posiciones donde existen cambios genéticos. Además, clasificará las diferencias detectadas en: sustituciones, inserciones y deleciones.
 
-Como caso de estudio, se utilizarán secuencias del SARS-CoV-2 para demostrar el funcionamiento de la herramienta y aplicar conceptos básicos de análisis genético sobre datos biológicos reales.
-
 ## Justificación
 
 Durante la fase inicial del proyecto se evaluaron distintas propuestas, entre ellas:

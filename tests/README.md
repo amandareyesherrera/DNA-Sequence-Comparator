@@ -1,7 +1,7 @@
 # Tests
 Esta carpeta contiene los archivos destinados a las pruebas del proyecto DNA Sequence Comparator.
 
-##Estructura
+## Estructura
 -**Carpeta test_sequences**: Contiene diferentes secuencias utilizadas como ejemplos para las pruebas.
 
 - **test_sequence_reader.py**: Pruebas de lectura de secuencias.

@@ -22,4 +22,4 @@ Documenta el reparto de responsabilidades entre los integrantes del equipo, deta
 
 ## Finalidad
 
-La documentación almacenada en esta carpeta permite mantener una organización clara del proyecto, registrar las decisiones tomadas durante su desarrollo y facilitar el trabajo colaborativo mediante Git y GitHub.
+La documentación almacenada en esta carpeta permite mantener una organización clara del proyecto, registrar las decisiones tomadas durante su desarrollo y facilitar el trabajo colaborativo.

@@ -1,4 +1,4 @@
-# Documentation
+# Documentación
 
 Esta carpeta contiene la documentación técnica y organizativa del proyecto DNA Sequence Comparator.
 

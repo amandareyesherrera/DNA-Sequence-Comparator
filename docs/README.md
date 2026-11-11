@@ -20,7 +20,7 @@ Describe la estructura de directorios del repositorio, la función de cada carpe
 
 Documenta el reparto de responsabilidades entre los integrantes del equipo, detallando las tareas asignadas a cada miembro y las responsabilidades compartidas.
 
-### pull_requests_evidence/
+### pull_requests/
 
 Contiene capturas de pantalla de los *Pull Requests* realizados por los integrantes del equipo, mostrando las contribuciones realizadas mediante ramas, solicitudes de cambios, revisiones y fusiones con la rama principal. Estas evidencias permiten documentar el trabajo colaborativo realizado mediante GitHub.
 

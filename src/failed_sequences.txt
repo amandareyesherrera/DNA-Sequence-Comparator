@@ -1,0 +1,6 @@
+#Failed_sequences
+
+##Descripción
+En el presente documento se muestra un listado de secuencias que han mostrado errores que han impedido su analisis y se detallan los motivos e implicaciones
+
+##Listado de secuencias erroneas

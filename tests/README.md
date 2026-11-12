@@ -4,7 +4,7 @@ Esta carpeta contiene los archivos destinados a las pruebas del proyecto DNA Seq
 
 ## Objetivo
 
-El objetivo de estas pruebas es la comprobación de que el programa funciona correctamente al comparar diferentes secuencias de ADN, identificar posibles mutaciones y calcular el porcentaje de similitud entre ellas.
+El objetivo de esta carpeta es organizar los casos de pruebas necesarios para verificar el correcto funcionamiento de los distintos módulos del proyecto, como la comparación de las diferentes secuencias de ADN, la identificación de posibles mutaciones, el cálculo de similitud entre ellas y la generación del informe. 
 
 ## Estructura
 

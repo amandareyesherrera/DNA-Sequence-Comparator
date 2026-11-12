@@ -1,5 +1,15 @@
 # DNA Sequence Comparator
 
+## Índice del proyecto
+
+1. Descripción
+2. Objetivos
+3. Funcionamiento
+4. Tipos de mutaciones detectadas
+5. Instalación
+6. Uso
+7. Autores
+   
 ## Descripción
 
 Este proyecto tiene como objetivo comparar dos secuencias genéticas para identificar diferencias entre ellas y detectar posibles mutaciones.

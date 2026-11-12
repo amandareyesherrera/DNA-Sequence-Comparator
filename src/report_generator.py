@@ -1,2 +1,3 @@
 # Descripción 
-Este archivo contiene los informe generados a partir de la comparación de las secuencias analizadas
+Este archivo contiene el script para la generación de informes a partir de la comparación de las secuencias analizadas.
+

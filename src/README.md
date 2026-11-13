@@ -22,7 +22,11 @@ Contiene el script empleado para la lectura de secuencias.
 
 ### similarity_calculator.py
 
-Contiene el script empleado para realizar el calculo de similitud así como la descripción de los criterios empleados.
+Contiene el script empleado para realizar el cálculo de similitud así como la descripción de los criterios empleados.
+
+### reports
+
+contiene todos los informes emitidos y un documento en el que se recogen las secuencias fallidas
 
 ## Finalidad
 

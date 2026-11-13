@@ -9,33 +9,34 @@ Con el objetivo de distribuir el trabajo de forma equilibrada entre todos los in
 - Creación y configuración inicial del repositorio en GitHub.
 - Definición de la estructura de carpetas del proyecto.
 - Elaboración del archivo README.md y la documentación inicial.
-- Lectura de secuencias de ADN en `sequence_reader.py`.
-- Validación de los datos de entrada.
+- Gestión y revisión de las contribuciones del equipo.
+- Revisión y aceptación de Pull Requests.
 
 ### Amaia Astrain López
 
-- Comparación de secuencias nucleótido a nucleótido.
-- Cálculo del porcentaje de similitud.
-- Desarrollo del módulo `similarity_calculator.py`.
-- Pruebas de funcionamiento de los algoritmos de comparación.
+- Creación de rama de trabajo propia.
+- Organización y ampliación de la carpeta src.
+- Elaboración del archivo src/README.md.
+- Actualización de la documentación técnica relacionada con la estructura del proyecto. 
+- Solicitud de PullRequests para integrar los cambios realizados. 
 
 ### Ana Belén Liébana Vilches
 
-- Detección de mutaciones.
-- Clasificación de mutaciones:
-  - Sustituciones
-  - Inserciones
-  - Deleciones
-- Desarrollo del módulo `mutation_detector.py`.
-- Validación de resultados.
+- Creación de rama de trabajo propia.
+- Organización y ampliación de la carpeta data.
+- Elaboración del archivo data/README.md.
+- Incorporación de secuencias biológicas de distintas especies. 
+- Solicitud de PullRequests para integrar los cambios realizados. 
+
 
 ### Ana Martín Sánchez
 
-- Diseño de la salida mostrada al usuario.
-- Desarrollo del módulo `report_generator.py`.
-- Integración de los distintos módulos en `main.py`.
-- Validación del informe final y verificación de la coherencia de los resultados mostrados al usuario.
-
+- Creación de rama de trabajo propia.
+- Organización y ampliación de la carpeta test.
+- Elaboración del archivo test/README.md.
+- Definición de la estructura de pruebas del proyecto 
+- Solicitud de PullRequests para integrar los cambios realizados.
+  
 ## Responsabilidades compartidas
 
 - Uso de Git y GitHub.

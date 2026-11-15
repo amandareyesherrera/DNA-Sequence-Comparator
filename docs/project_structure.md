@@ -22,8 +22,20 @@ Contiene los archivos utilizados para realizar pruebas y validaciones del sistem
 dna-sequence-comparator/
 │
 ├── data/
-│   ├── reference_sequence.txt
-│   └── sample_sequence.txt
+│   ├── Secuencias 'Bacterias'/
+│   │   ├── Secuencias de referencia/
+│   │   │   ├── E. coli
+│   │   │   └── S. enterica
+│   │   └── Secuencias problema/
+│   │       ├── E. coli_m1
+│   │       └── S. enterica_m1
+│   └── Secuencias 'Virus'/
+│       ├── Secuencias de referencia/
+│       │   ├── Neumovirus
+│       │   └── Rubivirus
+│       └── Secuencias problema/
+│           ├── Neumovirus_m1
+│           └── Rubivirus_m1
 │
 ├── src/
 │   ├── main.py
